@@ -11,4 +11,5 @@
 1. Склонируйте репозиторий на свой компьютер: git clone https://github.com/your/repository.git
 2.  Вот так примерно выглядит это приложение:
 
-![Снимок экрана 2024-05-01 172755](https://github.com/alina-west/flutter_rentApp/assets/144222854/8d6b2b8b-af8b-457a-a206-2cb2555a613d)
+
+![Снимок экрана 2024-05-01 172755](https://github.com/alina-west/flutter_rentApp/assets/144222854/8910a900-51c9-40b9-b5c6-0df8baaa7266)
